@@ -63,3 +63,5 @@ Rosmaryn (2026). *Rosmaryn open data*. https://github.com/Rosmaryn-Dev/rosmaryn-
 ## Find Rosmaryn
 
 [rosmaryn.app](https://rosmaryn.app/) · [data.gouv.fr](https://www.data.gouv.fr/organizations/rosmaryn/) · [Hugging Face](https://huggingface.co/Rosmaryn) · [npm](https://www.npmjs.com/~rosmaryn) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=app.rosmaryn)
+
+Listed on [Viberank](https://viberank.dev/apps/Rosmaryn) · [G2](https://www.g2.com/products/rosmaryn-pro/) · [AlternativeTo](https://alternativeto.net/software/rosmaryn/) · [Crunchbase](https://www.crunchbase.com/organization/rosmaryn) · [PostYourStartup](https://postyourstartup.co/startup/rosmaryn) · [mcptry](https://mcptry.com/servers/app.rosmaryn/encyclopedia)
