@@ -62,6 +62,6 @@ Rosmaryn (2026). *Rosmaryn open data*. https://github.com/Rosmaryn-Dev/rosmaryn-
 
 ## Find Rosmaryn
 
-[rosmaryn.app](https://rosmaryn.app/) · [data.gouv.fr](https://www.data.gouv.fr/organizations/rosmaryn/) · [Hugging Face](https://huggingface.co/Rosmaryn) · [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/rosmaryn) · [Zenodo](https://doi.org/10.5281/zenodo.24450935) · [npm](https://www.npmjs.com/~rosmaryn) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=app.rosmaryn)
+[rosmaryn.app](https://rosmaryn.app/) · [data.gouv.fr](https://www.data.gouv.fr/organizations/rosmaryn/) · [Hugging Face](https://huggingface.co/Rosmaryn) · [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/rosmaryn) · [Zenodo](https://doi.org/10.5281/zenodo.24450935) · [npm](https://www.npmjs.com/~rosmaryn) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=app.rosmaryn) · [Wikidata](https://www.wikidata.org/wiki/Q142272681)
 
 Listed on [Viberank](https://viberank.dev/apps/Rosmaryn) · [G2](https://www.g2.com/products/rosmaryn-pro/) · [AlternativeTo](https://alternativeto.net/software/rosmaryn/) · [Crunchbase](https://www.crunchbase.com/organization/rosmaryn) · [PostYourStartup](https://postyourstartup.co/startup/rosmaryn) · [mcptry](https://mcptry.com/servers/app.rosmaryn/encyclopedia)
